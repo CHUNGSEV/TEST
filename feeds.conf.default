@@ -1,7 +1,10 @@
-src-git packages https://git.openwrt.org/feed/packages.git^56d08c2da632fb3830df9e3f9db424456268d237
-src-git luci https://git.openwrt.org/project/luci.git^c06c6d1c03f880e21e0c8528b9da295eadeeaa26
-src-git routing https://git.openwrt.org/feed/routing.git^8d8cfe8d352ad92002c2faa5dddb044f35e9dab2
-src-git telephony https://git.openwrt.org/feed/telephony.git^b2a5bc879fe815ee7d033eb8bfb02b2216cba992
-src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;1.29-1
-src-git pack https://github.com/xiaorouji/openwrt-passwall-packages.git;main
+src-git packages https://git.openwrt.org/feed/packages.git
+src-git luci https://git.openwrt.org/project/luci.git
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git telephony https://git.openwrt.org/feed/telephony.git
+#src-git video https://github.com/openwrt/video.git
+#src-git targets https://github.com/openwrt/targets.git
+#src-git oldpackages http://git.openwrt.org/packages.git
+#src-link custom /usr/src/openwrt/custom-feed
 src-git x https://github.com/CHUNGSEV/X.git
+src-git NueXini_Packages https://github.com/NueXini/NueXini_Packages.git
