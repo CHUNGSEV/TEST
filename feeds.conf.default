@@ -7,3 +7,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git x https://github.com/CHUNGSEV/X.git
+src-git NueXini_Packages https://github.com/NueXini/NueXini_Packages.git
